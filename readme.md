@@ -1,12 +1,40 @@
-# TODO_BOOK_AUTHOR_NAME_YEAR
+# Wolfgang Eggert - Das Islamisierungskomplott: Wer spielt gegen Europa? (2020)
 
-![TODO_BOOK_AUTHOR_NAME_YEAR](cover.avif)
+![Wolfgang Eggert - Das Islamisierungskomplott: Wer spielt gegen Europa? (2020)](cover.avif)
 
-TODO_BOOK_STORE_URL
+https://isbnsearch.org/isbn/9798617532472
 
 <blockquote>
 
-TODO_BOOK_STORE_DESCRIPTION
+Als Angela Merkel 2015 die deutschen Grenzen einriss,
+wurde Europa von einer Migrationswelle ungekannten Ausmaßes überrollt.
+Die epische, seit dem Ende des Zweiten Weltkriegs
+nicht mehr auf unserem Kontinent geschene Völkerwandung
+steht heute vor einer Neuauflage,
+denn schon wieder staut sich auf dem Balkan der Verkehr nach Norden,
+während in Afrika Umfragen zufolge eine Milliarde Menschen abreisebereit sind
+\- um zu uns zu kommen.
+
+Selbst wenn die Lage halbwegs ruhig bliebe
+und sich die Asylzahlen auf dem Niveau von 2018 halten, hieße das,
+dass Deutschland jährlich(!) eine neue Stadt
+in der Größe von Kassel, Potsdam oder Saarbrücken errichten muss.
+Eine afrikanisierte oder islamisierte Metropole.
+
+Wie kam es zu dieser Entwicklung?
+Warum brachen die Dämme?
+Vor allem: WER ließ sie brechen,
+WER sorgte dafür dass sie nicht wieder instandgesetzt wurden?
+Fakt ist: Es gibt Kräfte, die an der verhängnisvollen Entwicklung in Europa,
+an der Islamisierung, der Umvolkung und einem möglichen Bürgerkrieg Interesse haben.
+Es sind sehr mächtige Kräfte, die es gewöhnlich vorziehen, im Dunkeln zu bleiben.
+Das vorliegende Buch beleuchtet diese scheuen Strippenzicher
+in einer breit gefächerten, profunden Analyse, die seit 2015 überfällig ist.
+
+- ISBN: 9798617532472
+- Binding: Paperback
+- Publisher: Amazon
+- Published: 2020-08-07
 
 </blockquote>
 
@@ -20,11 +48,11 @@ TODO_BOOK_TORRENT_MAGNET_LINK
 
 ## mirrors
 
-- https://github.com/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
+- https://github.com/milahu/wolfgang-eggert-das-islamisierungskomplott-2020
+- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu/wolfgang-eggert-das-islamisierungskomplott-2020
+- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/milahu/wolfgang-eggert-das-islamisierungskomplott-2020
+- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/wolfgang-eggert-das-islamisierungskomplott-2020
+- http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/milahu/wolfgang-eggert-das-islamisierungskomplott-2020
 
 
 

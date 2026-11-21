@@ -79,28 +79,48 @@ args += [
     "--text-format", "html",
     # TODO? move these config items to 000-config.py
     "--doc-modified", doc_modified,
-]
-
-
-todo_args = [
-    "--doc-title", "",
-    "--doc-subtitle", "",
+    "--doc-title", "Das Islamisierungskomplott",
+    "--doc-subtitle", "Wer spielt gegen Europa?",
     # "--doc-subject", "",
-    "--doc-date", "2025",
+    "--doc-date", "2020-08-07",
     "--doc-edition", "1",
-    "--doc-extent", "123 pages",
-    "--color-image-pages", "124,125",
-    "--doc-author", "",
+    "--doc-extent", "172 pages",
+    "--color-image-pages", "173,174",
+    "--doc-author", "Wolfgang Eggert",
     # "--doc-introducer", "",
     # "--doc-contributor", "",
     # "--doc-translator", "",
-    "--doc-publisher", "",
+    "--doc-publisher", "Amazon",
     "--doc-language", "de", # german
     # "--doc-language", "en", # english
-    "--doc-isbn", "0000000000000",
-    "--doc-cover-image", "075-level/999.tiff",
-    "--canonical-url-base", "https://TODO_REPO_OWNER_USERNAME.github.io/TODO_REPO_NAME/",
+    "--doc-isbn", "9798617532472",
+    "--doc-cover-image", "075-level/173.tiff",
+    "--canonical-url-base", "https://milahu.github.io/wolfgang-eggert-das-islamisierungskomplott-2020/",
     "--doc-description", """
+Als Angela Merkel 2015 die deutschen Grenzen einriss,
+wurde Europa von einer Migrationswelle ungekannten Ausmaßes überrollt.
+Die epische, seit dem Ende des Zweiten Weltkriegs
+nicht mehr auf unserem Kontinent geschene Völkerwandung
+steht heute vor einer Neuauflage,
+denn schon wieder staut sich auf dem Balkan der Verkehr nach Norden,
+während in Afrika Umfragen zufolge eine Milliarde Menschen abreisebereit sind
+- um zu uns zu kommen.
+
+Selbst wenn die Lage halbwegs ruhig bliebe
+und sich die Asylzahlen auf dem Niveau von 2018 halten, hieße das,
+dass Deutschland jährlich(!) eine neue Stadt
+in der Größe von Kassel, Potsdam oder Saarbrücken errichten muss.
+Eine afrikanisierte oder islamisierte Metropole.
+
+Wie kam es zu dieser Entwicklung?
+Warum brachen die Dämme?
+Vor allem: WER ließ sie brechen,
+WER sorgte dafür dass sie nicht wieder instandgesetzt wurden?
+Fakt ist: Es gibt Kräfte, die an der verhängnisvollen Entwicklung in Europa,
+an der Islamisierung, der Umvolkung und einem möglichen Bürgerkrieg Interesse haben.
+Es sind sehr mächtige Kräfte, die es gewöhnlich vorziehen, im Dunkeln zu bleiben.
+Das vorliegende Buch beleuchtet diese scheuen Strippenzicher
+in einer breit gefächerten, profunden Analyse, die seit 2015 überfällig ist.
 """,
 ]
 

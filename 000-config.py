@@ -1,6 +1,6 @@
 # TODO set config values
 
-num_pages = 592
+num_pages = 172
 
 color_pages = []
 
@@ -14,13 +14,13 @@ max_scan_width_mm = 215.88
 max_scan_height_mm = 355.567
 
 # physical page size (before unbinding)
-page_width_mm = 124
-page_height_mm = 190
-pages_block_depth_mm = 0
+page_width_mm = 147
+page_height_mm = 207
+pages_block_depth_mm = 10.35
 
 # physical page width after unbinding
 # unbinding removes a small strip (about 5 mm width) from the inside edge
-unbinded_page_width_mm = page_width_mm - 5 # 5 mm width was removed
+unbinded_page_width_mm = 145
 
 # TODO use 4 unbinded widths:
 # 1. top width of the first page
@@ -192,7 +192,9 @@ image_viewer = "feh"
 
 fill_white_pages_lightness_file = "0683-lightness.txt"
 
-fill_white_pages_white_lightness_threshold = 99.99 / 100 # 99.99%
+# 099.975544 001.tiff
+# 099.412231 003.tiff
+fill_white_pages_white_lightness_threshold = 99.9 / 100 # 99.9%
 
 
 
