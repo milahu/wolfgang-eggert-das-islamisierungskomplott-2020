@@ -43,10 +43,10 @@ in einer breit gefächerten, profunden Analyse, die seit 2015 überfällig ist.
 
 ## scans
 
-### TODO_BOOK_TORRENT_NAME
+### wolfgang.eggert.das.islamisierungskomplott.2020.600dpi.jpeg.german.book.scan
 
 ```
-TODO_BOOK_TORRENT_MAGNET_LINK
+magnet:?xt=urn:btih:a4183fd0b90b43b3a8d3cda7810b2f8b88bb1b2c&dn=wolfgang.eggert.das.islamisierungskomplott.2020.600dpi.jpeg.german.book.scan&xl=424619660&tr=udp%3A%2F%2F185.216.179.62%3A25%2Fannounce&tr=udp%3A%2F%2F93.158.213.92%3A1337%2Fannounce&tr=udp%3A%2F%2F107.189.2.131%3A1337%2Fannounce&tr=udp%3A%2F%2F89.234.156.205%3A451%2Fannounce
 ```
 
 ## mirrors
