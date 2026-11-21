@@ -4,6 +4,9 @@
 
 https://isbnsearch.org/isbn/9798617532472
 
+https://www.goodreads.com/book/show/114875711-das-islamisierungskomplott
+("This item does not meet our catalog guidelines and can no longer be rated or reviewed.")
+
 <blockquote>
 
 Als Angela Merkel 2015 die deutschen Grenzen einriss,
